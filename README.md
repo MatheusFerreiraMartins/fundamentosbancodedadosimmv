@@ -5,4 +5,4 @@ projeto da disciplina fundamentos de bancos de dados
 igorbonfim.inf@gmail.com
 maikon.kenedy112@gmail.com
 matheus96805281@gmail.com
-vitormanuel.cds@gmail.com
+vitormanuel.cds@gmail.com.
